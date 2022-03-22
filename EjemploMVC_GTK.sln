@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EjemploMVC_GTK", "EjemploMVC_GTK\EjemploMVC_GTK.csproj", "{62EBB800-F177-4EE5-8333-D5BE9484A97F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{62EBB800-F177-4EE5-8333-D5BE9484A97F}.Debug|x86.ActiveCfg = Debug|x86
+		{62EBB800-F177-4EE5-8333-D5BE9484A97F}.Debug|x86.Build.0 = Debug|x86
+		{62EBB800-F177-4EE5-8333-D5BE9484A97F}.Release|x86.ActiveCfg = Release|x86
+		{62EBB800-F177-4EE5-8333-D5BE9484A97F}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal

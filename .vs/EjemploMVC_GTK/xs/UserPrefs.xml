@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{62EBB800-F177-4EE5-8333-D5BE9484A97F}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="EjemploMVC_GTK/Controlador/ClienteControlador.cs">
+    <Files>
+      <File FileName="EjemploMVC_GTK/Program.cs" Line="1" Column="1" />
+      <File FileName="EjemploMVC_GTK/Modelo/Cliente.cs" Line="11" Column="10" />
+      <File FileName="EjemploMVC_GTK/Vista/ClientView.cs" Line="13" Column="9" />
+      <File FileName="EjemploMVC_GTK/Controlador/ClienteControlador.cs" Line="6" Column="8" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="EjemploMVC_GTK" expanded="True">
+            <Node name="EjemploMVC_GTK" expanded="True">
+              <Node name="Controlador" expanded="True">
+                <Node name="ClienteControlador.cs" selected="True" />
+              </Node>
+              <Node name="Modelo" expanded="True" />
+              <Node name="Vista" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.EjemploMVC__GTK FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
