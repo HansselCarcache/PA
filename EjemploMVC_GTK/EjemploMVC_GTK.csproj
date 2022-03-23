@@ -52,6 +52,7 @@
       <SpecificVersion>False</SpecificVersion>
     </Reference>
     <Reference Include="Mono.Posix" />
+    <Reference Include="System.Data" />
   </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Include="gtk-gui\gui.stetic">
@@ -67,11 +68,13 @@
     <Compile Include="Modelo\Cliente.cs" />
     <Compile Include="Vista\ClientView.cs" />
     <Compile Include="Controlador\ClienteControlador.cs" />
+    <Compile Include="Datos\Conexion.cs" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Modelo\" />
     <Folder Include="Vista\" />
     <Folder Include="Controlador\" />
+    <Folder Include="Datos\" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
 </Project>
